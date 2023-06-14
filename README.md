@@ -2,4 +2,7 @@
 
 
 
-Objetivo
+Objetivo general: 
+
+Usuarios extremos:
+Usuarios promedio:
